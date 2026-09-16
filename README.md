@@ -1,6 +1,6 @@
 # cybersecurity-journey
 Documenting my journey from cybersecurity fundamentals to SOC Analyst.
-# 🛡️ Hi, I'm [Gopichand]
+# 🔵 Hi, I'm [Gopichand]
 
 ### Aspiring Blue Team Security Professional | SOC Analyst | Cybersecurity
 
